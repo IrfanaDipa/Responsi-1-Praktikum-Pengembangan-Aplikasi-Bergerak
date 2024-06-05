@@ -1,0 +1,350 @@
+<resources>
+    <string name="app_name">Responsi PPAB</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="tab_title1">Sejarah</string>
+    <string name="tab_titles2">Visi Misi</string>
+    <string name="tab_titles3">Pengajar</string>
+
+    <string name="instructor_name">Name</string>
+    <string name="instructor_button">Profil Lengkap</string>
+    <string name="instructor_detail">Detail Pengajar</string>
+    <string name="instructor_back">Kembali</string>
+
+    <string name="home_app_description">Aplikasi \"Responsi PPAB\" merupakan aplikasi android yang dibuat dalam rangka menyelesaikan tugas Responsi PPAB. Aplikasi ini akan menyajikan data berupa sejarah, visi misi, dan tenaga pengajar dalam program studi informatika di Fakultas Teknologi Informasi dan Sains Data atau disebut juga sebagai FATISDA.</string>
+    <string name="home_source">Website FATISDA</string>
+
+    <!-- Bagian Dashboard -->
+    <!-- Bagian Sejarah -->
+    <string name="title_history">Sejarah Program Studi Informatika</string>
+    <string name="history_1">Program Studi Informatika FATISDA UNS adalah salah satu program studi di Fakultas Teknologi Informasi dan Sains Data Universitas Sebelas Maret Surakarta yang berdiri sejak tanggal 29 Januari 2007 dengan nama Program Studi Ilmu Komputer melalui SK Pendirian 163/D/T/2007. Pada tahun 2009 berganti nama menjadi Program Studi Informatika berdasarkan pada surat perpanjangan ijin operasional.</string>
+    <string name="history_2">Program Studi Informatika FATISDA UNS saat ini memiliki staf pengajar berpendidikan minimal S2 (Magister/Master) baik dari dalam maupun luar negeri yang terbagi dalam 6 (enam) kelompok penelitian yaitu: Soft Computing (SC), Computational Science (CS), Information and Data Security (IDS), Information System (IS), Network and Distributed System, Software Architecture and Engineering (SAE). Pengembangan staf Program Studi Teknik Informatika FATISDA UNS dilakukan dengan melakukan pengiriman staf mengikuti pelatihan, seminar (conference), dan studi lanjut baik di dalam maupun ke luar negeri.</string>
+    <string name="history_3">Kurikulum Program Studi Informatika FATISDA UNS mengacu salah satunya pada ACM Computing Curricula 2005 yang disesuaikan dengan penambahan muatan lokal. Secara periodik kurikulum dievaluasi dan disesuaikan dengan kondisi yang berkembang dengan melibatkan seluruh staf akademik  melalui lokakarya setiap dua tahun. Keterlibatan stakeholder dan alumni diwujudkan dalam bentuk survei kepuasan pelanggan serta studi pelacakan alumni (tracer studi) yang rutin dilakukan dalam jangka waktu tiap semester/tiap tahun.</string>
+    <string name="history_4">Di bidang penelitian Program Studi Informatika FATISDA UNS memberikan fasilitas kepada dosen berupa ketersediaan fasilitas laboritorium penelitian, yang terdiri dari SI, RPL, IRK serta JST. Keluaran dari penelitian telah dipublikasikan melalui jurnal internasional, jurnal nasional dan melalui seminar/konferensi baik tingkat nasional maupun internasional. Pencapaian penelitian yang lolos dalam hibah pendanaan penelitian juga cukup besar, paling tidak satu proposal bisa dibiayai dalam satu skema hibah.</string>
+    <string name="history_5">Pengabdian kepada Masyarakat dilakukan Program Studi Informatika dengan dua skema, yaitu pengimplementasian hasil penelitian dan pelatihan. Pelatihan pemanfaatan ICT untuk pembelajaran ternyata memperoleh tanggapan yang cukup baik dari masyarakat. Hal tersebut terbukti dari adanya permintaan pelatihan dari pihak sekolah/kelompok sekolah.</string>
+    <string name="history_6">Di bidang kerjasama dengan pihak eksternal, Program Studi Informatika FATISDA UNS melakukan kerjasama dalam bentuk kegiatan magang, visiting professor/lecturer, penelitian dan pengabdian masyarakat serta pembelajaran yang mengarah pada kurikulum. Lembaga/institusi tersebut berasal dari dalam negeri antara lain: PT TELKOM, GamaTechno, dan PT INKA maupun luar negeri antara lain University of SAGA, dan University Technology of Malaya (UTeM).</string>
+    <string name="history_7">Program Studi Informatika memiliki fasilitas belajar berupa perpustakaan (di tingkat Universitas dan Fakultas) yang didukung dengan ketersediaan jurnal internasional terbaru. Untuk penyelenggaraan perkuliahan di tiga gedung berbagi pakai dengan program studi lain di FMIPA UNS. Selain itu untuk kepentingan koneksi jaringan internet di UNS saat ini sudah mencapai 350 Mbps, dengan setiap mahasiswa sudah bisa mencapai maksimal 512 Kbps.  Sistem pengelolaan dan pemeliharaan fasilitas fisik (Gedung/bangunan) dilakukan di tingkat Fakultas, melalui sub bagian Umum dan Perlengkapan. Layanan Administrasi Akademik dan Kemahasiswaan telah dilakukan dengan dukungan sistem informasi antara lain layanan Registrasi secara Online, Sistem Akademik (Pengambilan Mata Kuliah, Jadwal dan Penilaian), Beasiswa dan Program Kreatifitas Mahasiswa.</string>
+    <string name="history_8">Dari aspek Sistem Penjaminan Kualitas Program Studi Informatika FATISDA UNS meliputi input, proses PBM dan output serta outcome. Penjaminan mutu internal diterapkan pada perbaikan proses pembelajaran, pelaksanaan magang mahasiswa serta pelaksanaan tugas akhir. Dampaknya antara lain meningkatnya IPK mahasiswa dan kecepatan penyelesaian tugas akhir yang berimbas pada masa studi. Untuk kepentingan tersebut Program Studi Teknik Informatika mendatangkan Tenaga Ahli dalam pengembangan pembelajaran dan penelitian.</string>
+    <string name="history_9">Program Studi Informatika telah selesai melakukan proses re-akreditasi program studi. Berdasarkan keputusan BAN-PT No. 1081/SK/BAN-PT/Akred/S/IV/2018, program studi Informatika UNS memperoleh Akreditasi A yang berlaku selama 5 (lima) tahun sejak tanggal 17 April 2018 hingga 17 April 2023.</string>
+
+    <!-- Bagian Visi Misi -->
+    <string name="title_visi">Visi Program Studi Informatika</string>
+    <string name="content_visi">Sebagai penyelenggara pendidikan bidang Informatika yang berkualitas dan mampu bersaing di tingkat internasional</string>
+    <string name="title_misi">Misi Program Studi Informatika</string>
+    <string name="content_misi">\u25CF Menyelenggarakan kegiatan pendidikan dan pengajaran yang terencana, terarah, dan berkelanjutan\n\n\u25CF Melakukan kajian dan penelitian di bidang Informatika yang bermanfaat dan meningkatkan daya saing bangsa\n\n\u25CF Melaksanakan pengabdian pada masyarakat sesuai dengan kompetensi dalam bidang Informatika</string>
+    <string name="title_tujuan">Tujuan</string>
+    <string name="content_tujuan">\u25CF Dihasilkannya sarjana Informatika yang berkarakter, profesional, dan mandiri\n\n\u25CF Dihasilkannya produk kajian dan penelitian pada bidang Informatika yang dapat berguna dan berdaya saing\n\n\u25CF Diterapkannya hasil kajian dan penelitian untuk membantu meningkatkan kualitas kehidupan masyarakat</string>
+
+    <!-- Bagian Pengajar -->
+    <string name="action_1">List</string>
+    <string name="action_2">Grid</string>
+
+    <integer-array name="instructor_photo">
+        <item>@drawable/pak_bambang_harjito</item>
+        <item>@drawable/pak_wiranto</item>
+        <item>@drawable/bu_umi_salamah</item>
+        <item>@drawable/pak_didiek_sri_wahyono</item>
+        <item>@drawable/bu_dewi_wisnu</item>
+        <item>@drawable/pak_abdul_aziz</item>
+        <item>@drawable/pak_ristu_saptono</item>
+        <item>@drawable/pak_wisnu_widiarto</item>
+        <item>@drawable/bu_rini_anggrainingsih</item>
+        <item>@drawable/bu_esti_suryani</item>
+        <item>@drawable/bu_sari_widya</item>
+        <item>@drawable/pak_afrizal_doewes</item>
+        <item>@drawable/pak_winarno</item>
+        <item>@drawable/pak_wiharto</item>
+        <item>@drawable/pak_hasan_dwi_cahyono</item>
+        <item>@drawable/pak_haryono_setiadi</item>
+        <item>@drawable/pak_heri_prasetyo</item>
+        <item>@drawable/pak_ardhi_wijayanto</item>
+    </integer-array>
+
+    <string-array name="instructor_name">
+        <item>Prof. Drs. Bambang Harjito, M.App.Sc, Ph.D.</item>
+        <item>Dr. Wiranto, M.Kom, M.Cs.</item>
+        <item>Dr. Umi Salamah, S.Si., M.Kom.</item>
+        <item>Didiek Sri Wahyono, S.T., M.T.</item>
+        <item>Dr. Tech. Dewi Wisnu Wardani, S.Kom., M.S.</item>
+        <item>Abdul Aziz, S.Kom., M.Cs.</item>
+        <item>Ristu Saptono, S.Si., M.T.</item>
+        <item>Dr. Wisnu Widiarto, S.Si., M.T.</item>
+        <item>Rini Anggrainingsih, S.T., M.T.</item>
+        <item>Esti Suryani, S.Si., M.Kom.</item>
+        <item>Sari Widya Sihwi, S.Kom., M.T.I.</item>
+        <item>Afrizal Doewes, S.Kom., M.Sc.</item>
+        <item>Winarno, S.Si., M.Eng.</item>
+        <item>Dr. Wiharto, S.T., M.Kom.</item>
+        <item>Hasan Dwi Cahyono, S.Kom., M.Kom.</item>
+        <item>Haryono Setiadi, S.T., M.Eng.</item>
+        <item>Heri Prasetyo, S.Kom., M.Sc.Eng., Ph.D.</item>
+        <item>Ardhi Wijayanto, S.Kom., M.Cs.</item>
+    </string-array>
+
+    <string-array name="instructor_detail">
+        <item>
+            Email : bambangharjito@staff.uns.ac.id\n\n
+            NIDN  : 0030116204\n\n
+            H-Index (Scopus)       : 8\n\n
+            Index Kinerja Personal : 3.73\n\n
+            Group Riset Aktif      :\n
+                \u25CF M27084033-Intelligent Systems and Humanized Computing (2021 s/d sekarang)\n\n
+            History Group Riset    :\n
+                \u25CF P20112413-PUSTAPAKO (2014 s/d 2018)\n
+                \u25CF M13125803-Information data security (2016 s/d 2018)\n
+                \u25CF M13125834-Soft Computing (2016 s/d 2018)\n
+                \u25CF M08101348-Soft Computing (2018 s/d 2019)\n
+                \u25CF M07225508-Network and data security (2018 s/d 2019)\n
+                \u25CF M27094131-Computer Networks and Security (2019 s/d 2021)\n\n
+            Fakultas/Jurusan       : Fakultas Teknologi Informasi dan Sains Data / S-1 Informatika\n\n
+            Author ID Scopus       : 36680079500\n</item>
+        <item>
+            Email : wiranto@staff.uns.ac.id\n\n
+            NIDN  : 0030126608\n\n
+            H-Index (Scopus)       : 4\n\n
+            Index Kinerja Personal : 1.47\n\n
+            Group Riset Aktif      : \n
+                \u25CF M27084033-Intelligent Systems and Humanized Computing (2019 s/d sekarang)\n\n
+            History Group Aktif      :\n
+                \u25CF M13125834-Soft Computing (2016 s/d 2018)\n
+                \u25CF M08101348-Soft Computing (2018 s/d 2019)\n\n
+            Fakultas/Jurusan       : Fakultas Teknologi Informasi dan Sains Data / S-1 Informatika\n\n
+            Author ID Scopus       : 57202218649 \n</item>
+        <item>
+            Email : umisalamah@staff.uns.ac.id\n\n
+            NIDN  : 0017027003\n\n
+            H-Index (Scopus)       : 6\n\n
+            Index Kinerja Personal : 1.38\n\n
+            Group Riset Aktif      : \n
+                \u25CF M27093746-Computational Science and Engineering (2019 s/d sekarang)\n\n
+            History Group Aktif      :\n
+                \u25CF M12164232-Ilmu rekayasa dan komputasi (2016 s/d 2018)\n
+                \u25CF M13125834-Soft Computing (2016 s/d 2018)\n
+                \u25CFM07225430-Computational Science (2018 s/d 2019)\n
+                \u25CFM08101348-Soft Computing (2018 s/d 2019)\n
+                \u25CFM24085048-Elektronika &amp; Instrumentasi (2019 s/d 2021)\n\n
+            Fakultas/Jurusan       : Fakultas Teknologi Informasi dan Sains Data / S-1 Informatika\n\n
+            Author ID Scopus       : 56592969000\n</item>
+        <item>
+            Email : didieksw@staff.uns.ac.id\n\n
+            NIDN  : ??\n\n
+            H-Index (Scopus)       : ??\n\n
+            Index Kinerja Personal : ??\n\n
+            Group Riset Aktif      : ??\n\n
+            History Group Aktif    : ??\n\n
+            Fakultas/Jurusan       : ??\n\n
+            Author ID Scopus       : ??\n</item>
+        <item>
+            Email : dww_ok@staff.uns.ac.id\n\n
+            NIDN  : 0026107801\n\n
+            H-Index (Scopus)       : 4\n\n
+            Index Kinerja Personal : 5.09\n\n
+            Group Riset Aktif      : \n
+                \u25CF M27093954-Data, Information and Knowledge Engineering (2019 s/d sekarang)\n\n
+            History Group Aktif      :\n
+                \u25CF M24090426-Information System (2016 s/d 2018)\n
+                \u25CF M08101524-Information System (2018 s/d 2019)\n
+                \u25CF M27073848-Biodiversitas (2019 s/d 2021)\n\n
+            Fakultas/Jurusan       : Fakultas Teknologi Informasi dan Sains Data / S-1 Sains Data\n\n
+            Author ID Scopus       : 56572937000\n</item>
+        <item>
+            Email : aaziz@staff.uns.ac.id\n\n
+            NIDN  : 0013048101\n\n
+            H-Index (Scopus)       : 7\n\n
+            Index Kinerja Personal : 0.49\n\n
+            Group Riset Aktif      : \n
+                \u25CF V30115332-Applied Informatics (2019 s/d sekarang)\n\n
+            History Group Aktif      :\n
+                \u25CF M12174620-jaringan dan sistem terdistribusi (2016 s/d 2018)\n
+                \u25CF M24090426-Information System (2016 s/d 2018)\n
+                \u25CF M07225508-Network and data security (2018 s/d 2019)\n
+                \u25CF M07225843-Informatika Terapan (2018 s/d 2019)\n
+                \u25CF M27094131-Computer Networks and Security (2019 s/d 2021)\n\n
+            Fakultas/Jurusan       : Sekolah Vokasi / D-3 Teknik Informatika\n\n
+            Author ID Scopus       : 57193859008\n</item>
+        <item>
+            Email : ristu.saptono@staff.uns.ac.id\n\n
+            NIDN  : 0010027901\n\n
+            H-Index (Scopus)       : 4\n\n
+            Index Kinerja Personal : 1.45\n\n
+            Group Riset Aktif      : \n
+                \u25CF M27093746-Computational Science and Engineering (2019 s/d sekarang)\n\n
+            History Group Aktif      :\n
+                \u25CF M24090330-software architecture and engineering (2014 s/d 2018)\n
+                \u25CF M12164232-Ilmu rekayasa dan komputasi (2016 s/d 2018)\n
+                \u25CF M07225430-Computational Science (2018 s/d 2019)\n
+                \u25CF M24090426-Information System (2018 s/d 2018)\n
+                \u25CF M08101524-Information System (2018 s/d 2019)\n\n
+            Fakultas/Jurusan       : Fakultas Teknologi Informasi dan Sains Data / S-1 Informatika\n\n
+            Author ID Scopus       : 57192887452\n</item>
+        <item>
+            Email : wisnu.widiarto@staff.uns.ac.id\n\n
+            NIDN  : 0001067005\n\n
+            H-Index (Scopus)       : 2\n\n
+            Index Kinerja Personal : 1.09\n\n
+            Group Riset Aktif      : \n
+                \u25CF M27093746-Computational Science and Engineering (2021 s/d sekarang)\n\n
+            History Group Aktif      :\n
+                \u25CF M12174620-jaringan dan sistem terdistribusi (2016 s/d 2018)\n
+                \u25CF M24090426-Information System (2016 s/d 2018)\n
+                \u25CF M07225508-Network and data security (2018 s/d 2019)\n
+                \u25CF M08101524-Information System (2018 s/d 2019)\n
+                \u25CF M27094131-Computer Networks and Security (2019 s/d 2021)\n\n
+            Fakultas/Jurusan       : Fakultas Teknologi Informasi dan Sains Data / S-1 Sains Data\n\n
+            Author ID Scopus       : 57189227728\n</item>
+        <item>
+            Email : rini.anggrainingsih@staff.uns.ac.id\n\n
+            NIDN  : 0009097803\n\n
+            H-Index (Scopus)       : 5\n\n
+            Index Kinerja Personal : 1.14\n\n
+            Group Riset Aktif      : \n
+                \u25CF M27093954-Data, Information and Knowledge Engineering (2019 s/d sekarang)\n\n
+            History Group Aktif      :\n
+                \u25CF M24090330-software architecture and engineering (2014 s/d 2018)\n
+                \u25CF M24090426-Information System (2016 s/d 2018)\n
+                \u25CF O13121344-TEKNOLOGI INFORMASI UNTUK PENDIDIKAN (TIuP) (2016 s/d 2018)\n
+                \u25CF M08101348-Soft Computing (2018 s/d 2019)\n
+                \u25CF M08101524-Information System (2018 s/d 2019)\n\n
+            Fakultas/Jurusan       : Fakultas Teknologi Informasi dan Sains Data / S-1 Sains Data\n\n
+            Author ID Scopus       : 57189351114\n</item>
+        <item>
+            Email : estisuryani@staff.uns.ac.id\n\n
+            NIDN  : 0029117605\n\n
+            H-Index (Scopus)       : 9\n\n
+            Index Kinerja Personal : 1.66\n\n
+            Group Riset Aktif      : \n
+                \u25CF M27093746-Computational Science and Engineering (2019 s/d sekarang)\n\n
+            History Group Aktif      :\n
+                \u25CF M12164232-Ilmu rekayasa dan komputasi (2016 s/d 2018)\n
+                \u25CF M13125803-Information data security (2016 s/d 2018)\n
+                \u25CF M07225430-Computational Science (2018 s/d 2019)\n\n
+            Fakultas/Jurusan       : Fakultas Teknologi Informasi dan Sains Data / S-1 Sains Data\n\n
+            Author ID Scopus       : 57191243845 \n</item>
+        <item>
+            Email : sariwidya@staff.uns.ac.id\n\n
+            NIDN  : 0012048303\n\n
+            H-Index (Scopus)       : 7\n\n
+            Index Kinerja Personal : 1.33\n\n
+            Group Riset Aktif      : \n
+                \u25CF M27084033-Intelligent Systems and Humanized Computing (2019 s/d sekarang )\n\n
+            History Group Aktif      :\n
+                \u25CF M24090330-software architecture and engineering (2014 s/d 2018)\n
+                \u25CF M13125834-Soft Computing (2016 s/d 2018)\n
+                \u25CF M24090426-Information System (2016 s/d 2018)\n
+                \u25CF M08101348-Soft Computing (2018 s/d 2019)\n
+                \u25CF M08101524-Information System (2018 s/d 2019)\n\n
+            Fakultas/Jurusan       : Fakultas Teknologi Informasi dan Sains Data / S-1 Informatika\n\n
+            Author ID Scopus       : 55901578500\n</item>
+        <item>
+            Email : afrizal.doewes@staff.uns.ac.id\n\n
+            NIDN  : 0031088504\n\n
+            H-Index (Scopus)       : 4\n\n
+            Index Kinerja Personal : 0.00\n\n
+            Group Riset Aktif      : \n
+                \u25CF M27093954-Data, Information and Knowledge Engineering (2019 s/d sekarang)\n\n
+            History Group Aktif      :\n
+                \u25CF M24090330-software architecture and engineering (2014 s/d 2018)\n
+                \u25CF M13125834-Soft Computing (2016 s/d 2018)\n
+                \u25CF M24090426-Information System (2018 s/d 2018)\n
+                \u25CF M08101348-Soft Computing (2018 s/d 2019)\n
+                \u25CF M08101524-Information System (2018 s/d 2019)\n\n
+            Fakultas/Jurusan       : Fakultas Teknologi Informasi dan Sains Data / S-1 Informatika\n\n
+            Author ID Scopus       : 57194155628\n</item>
+        <item>
+            Email : win@staff.uns.ac.id\n\n
+            NIDN  : 0020058207\n\n
+            H-Index (Scopus)       : 5\n\n
+            Index Kinerja Personal : 1.58\n\n
+            Group Riset Aktif      : \n
+                \u25CF M27084033-Intelligent Systems and Humanized Computing (2019 s/d sekarang)\n
+                \u25CF P19084632-Pusat Pengkajian Kebijakan Daerah dan Kelembagaan (PPKDK) (2024 s/d sekarang)\n\n
+            History Group Aktif      :\n
+                \u25CF M13125834-Soft Computing (2016 s/d 2018)\n
+                \u25CF M24090426-Information System (2016 s/d 2018)\n
+                \u25CF M08101348-Soft Computing (2018 s/d 2019)\n
+                \u25CF M08101524-Information System (2018 s/d 2019)\n\n
+            Fakultas/Jurusan       : Fakultas Teknologi Informasi dan Sains Data / S-1 Informatika\n\n
+            Author ID Scopus       : 57217797329\n</item>
+        <item>
+            Email : wiharto@staff.uns.ac.id\n\n
+            NIDN  : 0010027504\n\n
+            H-Index (Scopus)       : 11\n\n
+            Index Kinerja Personal : 2.47\n\n
+            Group Riset Aktif      : \n
+                \u25CF M27093746-Computational Science and Engineering (2019 s/d sekarang)\n\n
+            History Group Aktif      :\n
+                \u25CF M12164232-Ilmu rekayasa dan komputasi (2016 s/d 2018)\n
+                \u25CF M12174620-jaringan dan sistem terdistribusi (2016 s/d 2018)\n
+                \u25CF M07225430-Computational Science (2018 s/d 2019)\n\n
+            Fakultas/Jurusan       : Fakultas Teknologi Informasi dan Sains Data / S-1 Informatika\n\n
+            Author ID Scopus       : 57115568700\n</item>
+        <item>
+            Email : hasandc@staff.uns.ac.id\n\n
+            NIDN  :  0724058201\n\n
+            H-Index (Scopus)       : 0\n\n
+            Index Kinerja Personal : 0.84\n\n
+            Group Riset Aktif      : \n
+                \u25CF M27093954-Data, Information and Knowledge Engineering (2019 s/d sekarang)\n\n
+            History Group Aktif      :\n
+                \u25CF M24090330-software architecture and engineering (2014 s/d 2018)\n
+                \u25CF M13125834-Soft Computing (2016 s/d 2018)\n
+                \u25CF M07225430-Computational Science (2018 s/d 2019)\n
+                \u25CF M08101524-Information System (2018 s/d 2019)\n\n
+            Fakultas/Jurusan       : Fakultas Teknologi Informasi dan Sains Data / S-1 Sains Data\n\n
+            Author ID Scopus       : 58554102000\n</item>
+        <item>
+            Email : haryonosetiadi@staff.uns.ac.id\n\n
+            NIDN  : 0027038005\n\n
+            H-Index (Scopus)       : 3\n\n
+            Index Kinerja Personal : 1.39\n\n
+            Group Riset Aktif      : \n
+                \u25CF P04083506-Pusat Kajian dan Pengembangan Teknologi dan Kolaborasi Industri (PKPTKI) (2014 s/d sekarang)\n
+                \u25CF M27093954-Data, Information and Knowledge Engineering (2019 s/d sekarang)\n\n
+            History Group Aktif      :\n
+                \u25CF M24090426-Information System (2016 s/d 2018)\n
+                \u25CF M08101524-Information System (2018 s/d 2019)\n\n
+            Fakultas/Jurusan       : Fakultas Teknologi Informasi dan Sains Data / S-1 Informatika\n\n
+            Author ID Scopus       : 57201075270\n</item>
+        <item>
+            Email : heri.prasetyo@staff.uns.ac.id\n\n
+            NIDN  : 0002038307\n\n
+            H-Index (Scopus)       : 16\n\n
+            Index Kinerja Personal : 2.44\n\n
+            Group Riset Aktif      : \n
+                \u25CF M27084033-Intelligent Systems and Humanized Computing (2019 s/d sekarang)\n\n
+            History Group Aktif      :\n
+                \u25CF M13125834-Soft Computing (2016 s/d 2018)\n
+                \u25CF M13125803-Information data security (2016 s/d 2018)\n
+                \u25CF M07225508-Network and data security (2018 s/d 2019)\n
+                \u25CF M08101348-Soft Computing (2018 s/d 2019)\n
+                \u25CF M12144414-mathematical soft computing (2019 s/d 2021)\n\n
+            Fakultas/Jurusan       : Fakultas Teknologi Informasi dan Sains Data / S-1 Informatika\n\n
+            Author ID Scopus       : 55846541300\n</item>
+        <item>
+            Email : ardhi.wijayanto@staff.uns.ac.id\n\n
+            NIDN  : 0008068801\n\n
+            H-Index (Scopus)       : 0\n\n
+            Index Kinerja Personal : 1.39\n\n
+            Group Riset Aktif      : \n
+                \u25CF M27093954-Data, Information and Knowledge Engineering (2021 s/d sekarang)\n\n
+            History Group Aktif      :\n
+                \u25CF M07225508-Network and data security (2019 s/d 2019)\n
+                \u25CF M27094131-Computer Networks and Security (2019 s/d 2021)\n\n
+            Fakultas/Jurusan       : Fakultas Teknologi Informasi dan Sains Data / S-1 Informatika\n\n
+            Author ID Scopus       : 57214604383\n</item>
+    </string-array>
+
+    <!-- Bagian Profile -->
+    <string name="profile_Name">Irfan Adi Prasetya</string>
+    <string name="profile_Nim">L0122079</string>
+    <string name="profile_Prodi">Informatika, 2022</string>
+    <string name="profile_Fakultas">Fakultas Teknologi Informasi dan Sains Data\n(FATISDA)</string>
+    <string name="profile_Universitas">Universitas Sebelas Maret\n(UNS)</string>
+    <string name="profile_Email">irfan.adi.prasetya@student.uns.ac.id</string>
+    <string name="profile_Share">Share</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

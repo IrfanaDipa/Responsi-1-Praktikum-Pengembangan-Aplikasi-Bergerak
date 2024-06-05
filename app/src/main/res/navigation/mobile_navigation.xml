@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.responsippab.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.example.responsippab.ui.dashboard.DashboardFragment"
+        android:label="@string/title_dashboard"
+        tools:layout="@layout/fragment_dashboard" >
+        <action
+            android:id="@+id/action_navigation_dashboard_to_instructorFragment"
+            app:destination="@id/instructorFragment" />
+        <action
+            android:id="@+id/action_navigation_dashboard_to_historyFragment"
+            app:destination="@id/historyFragment" />
+        <action
+            android:id="@+id/action_navigation_dashboard_to_purposeFragment"
+            app:destination="@id/purposeFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.example.responsippab.ui.profile.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/instructorFragment"
+        android:name="com.example.responsippab.ui.dashboard.InstructorFragment"
+        android:label="fragment_instructor"
+        tools:layout="@layout/fragment_instructor" >
+        <action
+            android:id="@+id/action_instructorFragment_to_navigation_dashboard"
+            app:destination="@id/navigation_dashboard" />
+        <action
+            android:id="@+id/action_instructorFragment_to_detailInstructorFragment"
+            app:destination="@id/detailInstructorFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.example.responsippab.ui.dashboard.HistoryFragment"
+        android:label="fragment_history"
+        tools:layout="@layout/fragment_history" >
+        <action
+            android:id="@+id/action_historyFragment_to_navigation_dashboard"
+            app:destination="@id/navigation_dashboard" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/purposeFragment"
+        android:name="com.example.responsippab.ui.dashboard.PurposeFragment"
+        android:label="fragment_purpose"
+        tools:layout="@layout/fragment_purpose" >
+        <action
+            android:id="@+id/action_purposeFragment_to_navigation_dashboard"
+            app:destination="@id/navigation_dashboard" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailInstructorFragment"
+        android:name="com.example.responsippab.ui.dashboard.DetailInstructorFragment"
+        android:label="fragment_detail_instructor"
+        tools:layout="@layout/fragment_detail_instructor" >
+        <action
+            android:id="@+id/action_detailInstructorFragment_to_instructorFragment"
+            app:destination="@id/instructorFragment" />
+    </fragment>
+</navigation>

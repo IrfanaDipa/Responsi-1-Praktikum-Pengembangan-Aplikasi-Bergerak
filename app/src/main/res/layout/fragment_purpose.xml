@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="?attr/actionBarSize"
+    android:orientation="vertical"
+    tools:context=".ui.dashboard.PurposeFragment">
+
+    <TextView
+        style="@style/TextView_layout.Title"
+        android:layout_marginTop="20dp"
+        android:text="@string/title_visi" />
+    <TextView
+        style="@style/TextView_layout.Content_Purpose"
+        android:text="@string/content_visi" />
+    <TextView
+        style="@style/TextView_layout.Title"
+        android:text="@string/title_misi" />
+    <TextView
+        style="@style/TextView_layout.Content_Purpose"
+        android:text="@string/content_misi" />
+    <TextView
+        style="@style/TextView_layout.Title"
+        android:text="@string/title_tujuan" />
+    <TextView
+        style="@style/TextView_layout.Content_Purpose"
+        android:text="@string/content_tujuan" />
+</LinearLayout>
